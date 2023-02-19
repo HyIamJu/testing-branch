@@ -6,4 +6,5 @@ void main() {
 
   print("tambah feature A");
   print("menambahkan feature b");
+  print("feature A akan dikembangkan lagi dikemudian hari");
 }
